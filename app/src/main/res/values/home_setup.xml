@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?><!--suppress CheckTagEmptyBody -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingDefaultResource">
+    <!--
+        Home actions style ==> Share / Rate / Donate buttons
+        0. Hidden
+        1. Small
+        2. Big
+    -->
+    <integer name="home_actions_style">1</integer>
+
+    <!--
+        Do you want to show overview in home section?
+        True, means yes.
+        False, means no.
+    -->
+    <bool name="show_overview">true</bool>
+
+    <!--
+        Do you want the quick apply button to show its text?
+        True, means yes.
+        False, means no.
+    -->
+    <bool name="show_quick_apply_text">false</bool>
+
+    <!--
+        Set a custom text to the quick apply button.
+        Be sure to add translations, or it might not be shown in other languages.
+        Leave empty for the app to use the default "Quick Apply" text
+    -->
+    <string name="quick_apply_custom_text"></string>
+
+    <!-- These arrays are for the list of apps or links in main section. -->
+    <string-array name="home_list_titles">
+        <item>il0g Community</item>
+        <item>Whitelog</item>
+    </string-array>
+    <string-array name="home_list_descriptions">
+        <item>Community of artist to aim for bigger goals together</item>
+        <item>Simple, Sharp and Sleek</item>
+    </string-array>
+    <string-array name="home_list_icons">
+        <item>il0g</item>
+        <item>whitelog</item>
+    </string-array>
+    <string-array name="home_list_links">
+        <item>https://www.instagram.com/il0gxgray</item>
+        <item>https://play.google.com/store/apps/details?id=com.il0g.whitelog</item>
+    </string-array>
+</resources>

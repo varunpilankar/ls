@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation,MissingTranslation">
+    <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
+        <item>https://pbs.twimg.com/profile_images/1184854176548847619/ZCN_Wd6z_400x400.jpg</item>
+        <item>https://ehom.co.in/images/indrasen.jpg</item>
+        <item>https://ehom.co.in/Signature/advait_j.jpg</item>
+    </string-array>
+
+    <string-array name="credits_titles">
+        <item>il0g</item>
+        <item>Indrasen P</item>
+        <item>Advait Jadhav</item>
+    </string-array>
+
+    <string-array name="credits_descriptions">
+        <item>Community Publisher</item>
+        <item>Kustom Template and App Development</item>
+        <item>Illustrator and Designer</item>
+    </string-array>
+
+    <string-array name="credits_buttons">
+        <item>Website|Instagram</item>
+        <item>GitHub|Twitter|Instagram</item>
+        <item>Instagram</item>
+    </string-array>
+
+    <string-array name="credits_links">
+        <item>https://www.il0g.com|http://instagram.com/il0gxgray</item>
+        <item>https://github.com/varunpilankar|https://twitter.com/varunpilankar|http://instagram.com/varunpilankar</item>
+        <item>http://instagram.com/bugspunnyyy</item>
+    </string-array>
+</resources>
