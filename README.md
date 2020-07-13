@@ -1,6 +1,6 @@
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/app_logo.png" width="192" align="right" hspace="20" />
+<img src="https://lh3.googleusercontent.com/lRCGn6alPKZKZYE1SKab4vZCOGElAUNtzd7FMHltw2059brTk6Hy3j5Z5hxsIVhv06F4=s360" width="192" align="right" hspace="20" />
 
-Blueprint
+LS
 ======
 
 ![API](https://img.shields.io/badge/API-21%2B-34bf49.svg)
@@ -25,8 +25,8 @@ Free, feature-rich, easily customizable Android dashboard for icon packs
 [![GitHub forks](https://img.shields.io/github/forks/jahirfiquitiva/Blueprint.svg?style=social&label=Fork)](https://github.com/jahirfiquitiva/Blueprint/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/jahirfiquitiva/Blueprint.svg?style=social&label=Watch)](https://github.com/jahirfiquitiva/Blueprint)
 
-[![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/jahirfiquitiva)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jahirfiquitiva.svg?style=social)](https://twitter.com/jahirfiquitiva)
+[![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/varunpilankar)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jahirfiquitiva.svg?style=social)](https://twitter.com/varunpilankar)
 
 ---
 
@@ -34,6 +34,7 @@ Free, feature-rich, easily customizable Android dashboard for icon packs
 
 ### Home / Icons / Apply / Requests
 <p align="center">
+<img src="https://lh3.googleusercontent.com/FFwq1u6kUw67yhBwY8v3vbtsVObKggkdA4OQz132JnIFN87tXtnimIyJzHErUkrCJgs=w2880-h1606" height="350"/>
 <img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/1.png?maxAge=0" height="350"/>
 <img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/2.png?maxAge=0" height="350"/>
 <img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/3.png?maxAge=0" height="350"/>
@@ -83,49 +84,14 @@ Free, feature-rich, easily customizable Android dashboard for icon packs
 - Lots of customizations.
 - Works with Android 5.0 and newer.
 
-## Help translating
-:page_facing_up: Help making Blueprint available in more languages. [Click here to go to the translation site](https://crowdin.com/project/Blueprint/invite)
-
-## Changelog
-:radio_button: You can find it in the [Releases page](https://github.com/jahirfiquitiva/Blueprint/releases)
-
----
-
-# Including in your project
-Blueprint is available via JitPack, so getting it as simple as adding it as a dependency, like this:
-
-1. Add JitPack repository to your root `build.gradle` file
-```gradle
-allprojects {
-    repositories {
-        maven { url 'https://jitpack.io' }
-    }
-}
-```
-2. Add the dependency in your project `build.gradle` file
-```gradle
-dependencies {
-    implementation('dev.jahir:Blueprint:{latest version}@aar') {
-        transitive = true
-    }
-}
-```
-where `{latest version}` corresponds to published version in   [![JitPack](https://jitpack.io/v/dev.jahir/Blueprint.svg)](https://jitpack.io/#dev.jahir/Blueprint)
-
-## How to implement
-:page_with_curl: Everything you need to know can be found in the **[Wiki Docs](https://github.com/jahirfiquitiva/Blueprint/wiki/)**
-
-## Still need help :question:
-Just join our Discord Server and make a post. We'll help you as soon as possible. [![Join chat on Discord](https://badgen.net/badge/discord/join%20chat/7289DA?icon=discord)](https://discord.gg/78h7xgj)
-
 ---
 
 # Developed by
 
-### [Jahir Fiquitiva](https://jahir.dev/)
+### [Indrasen Pilankar](https://il0g.com/)
 
-[![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/jahirfiquitiva)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jahirfiquitiva.svg?style=social)](https://twitter.com/jahirfiquitiva)
+[![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/varunpilankar)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jahirfiquitiva.svg?style=social)](https://twitter.com/varunpilankar)
 
 If you found this app/library helpful and want to thank me, you can:
 
@@ -137,6 +103,7 @@ If you found this app/library helpful and want to thank me, you can:
 
 ## Special thanks 🙌
 
+- [Jahir Fiquitiva] (https://jahir.dev/)💻
 - [Eduardo Pratti](https://pratti.design/) 🎨
 - [Sherry Sabatine](http://www.ssabatinephotography.com/) 💵
 - [Allan Wang](https://www.allanwang.ca/) 💻
@@ -156,8 +123,6 @@ If you found this app/library helpful and want to thank me, you can:
 # License
 
 This app is shared under the CreativeCommons Attribution-ShareAlike license.
-
-	Copyright © 2020 Jahir Fiquitiva
 
 	Licensed under the CreativeCommons Attribution-ShareAlike 
 	4.0 International License. You may not use this file except in compliance 
