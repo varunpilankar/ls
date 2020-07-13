@@ -11,22 +11,13 @@ LS
 
 Free, feature-rich, easily customizable Android dashboard for icon packs
 
-<a target="_blank" href="http://bit.ly/DLBlueprintAPK">
+<a target="_blank" href="https://play.google.com/store/apps/details?id=com.il0g.ls.app">
 <img src="https://jahir.dev/share/download_sample.svg?maxAge=432000" width="200"/>
 </a>
 
-<a target="_blank" href="https://jahir.dev/donate/">
+<a target="_blank" href="https://www.paypal.me/inpilankar">
 <img src="https://jahir.dev/share/support_my_work.svg?maxAge=432000" width="200"/>
 </a>
-
-
-## Show some  :blue_heart:
-[![GitHub stars](https://img.shields.io/github/stars/jahirfiquitiva/Blueprint.svg?style=social&label=Star)](https://github.com/jahirfiquitiva/Blueprint)
-[![GitHub forks](https://img.shields.io/github/forks/jahirfiquitiva/Blueprint.svg?style=social&label=Fork)](https://github.com/jahirfiquitiva/Blueprint/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/jahirfiquitiva/Blueprint.svg?style=social&label=Watch)](https://github.com/jahirfiquitiva/Blueprint)
-
-[![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/varunpilankar)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jahirfiquitiva.svg?style=social)](https://twitter.com/varunpilankar)
 
 ---
 
@@ -35,10 +26,9 @@ Free, feature-rich, easily customizable Android dashboard for icon packs
 ### Home / Icons / Apply / Requests
 <p align="center">
 <img src="https://lh3.googleusercontent.com/FFwq1u6kUw67yhBwY8v3vbtsVObKggkdA4OQz132JnIFN87tXtnimIyJzHErUkrCJgs=w2880-h1606" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/1.png?maxAge=0" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/2.png?maxAge=0" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/3.png?maxAge=0" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/4.png?maxAge=0" height="350"/>
+<img src="https://lh3.googleusercontent.com/-_0XJDOaMkD35v7NB_ujhHfprdqxYkfM3R4Oky4N622qBReDBJL3r1dFcndWNH7eHWw=w1440-h620" height="350"/>
+<img src="https://lh3.googleusercontent.com/KK46csP0SvZQqkTeRDxLE8z6HCgAYUJyGAiePzAz7mg9g3PffLgqjfYPz63TzPW6TO1X=w2880-h1606" height="350"/>
+<img src="https://lh3.googleusercontent.com/ePkPrtFudj4n_udSGKFgqgmTXemqtzxlltIsMdSya_CzTag0_54AFnemlsRSwRd4OA=w2880-h1606" height="350"/>
 </p>
 
 ### Wallpapers support (Based on [Frames](https://github.com/jahirfiquitiva/Frames)) / Templates support (Based on [Kuper](https://github.com/Kuper))
@@ -47,14 +37,6 @@ Free, feature-rich, easily customizable Android dashboard for icon packs
 <img src="https://github.com/jahirfiquitiva/Kuper/raw/master/art/4.png" height="350"/>
 <img src="https://github.com/jahirfiquitiva/Kuper/raw/master/art/5.png" height="350"/>
 <img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/6.png?maxAge=0" height="350"/>
-</p>
-
-### Help / Credits / Settings / Navigation Drawer
-<p align="center">
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/7.png?maxAge=0" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/8.png?maxAge=0" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/9.png?maxAge=0" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/10.png?maxAge=0" height="350"/>
 </p>
 
 ---
@@ -90,12 +72,12 @@ Free, feature-rich, easily customizable Android dashboard for icon packs
 
 ### [Indrasen Pilankar](https://il0g.com/)
 
-[![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/varunpilankar)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jahirfiquitiva.svg?style=social)](https://twitter.com/varunpilankar)
+[![Follow on GitHub](https://img.shields.io/github/followers/varunpilankar.svg?style=social&label=Follow)](https://github.com/varunpilankar)
+[![Twitter Follow](https://img.shields.io/twitter/follow/varunpilankar.svg?style=social)](https://twitter.com/varunpilankar)
 
 If you found this app/library helpful and want to thank me, you can:
 
-<a target="_blank" href="https://jahir.dev/donate/">
+<a target="_blank" href="https://www.paypal.me/inpilankar">
 <img src="https://jahir.dev/share/support_my_work.svg?maxAge=432000" width="200"/>
 </a>
 
