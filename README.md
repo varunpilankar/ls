@@ -85,7 +85,7 @@ If you found this app/library helpful and want to thank me, you can:
 
 ## Special thanks 🙌
 
-- [Jahir Fiquitiva] (https://jahir.dev/)💻
+- [Jahir Fiquitiva](https://jahir.dev/) 💻
 - [Eduardo Pratti](https://pratti.design/) 🎨
 - [Sherry Sabatine](http://www.ssabatinephotography.com/) 💵
 - [Allan Wang](https://www.allanwang.ca/) 💻
